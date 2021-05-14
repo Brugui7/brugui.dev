@@ -1,0 +1,36 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Git
+  logo: "/images/sections/skills/git.png"
+  summary: "Strong knowledge of git and git-flow. Experience in working with GitHub and BitBucket."
+  url: "https://git-scm.com/"
+
+- name: Android
+  logo: "/images/sections/skills/android.png"
+  summary: "I've developed multiple applications in Java (and some components in Kotlin) for various sectors as a freelance, having hundred of daily users."
+  url: "https://developer.android.com/"
+
+- name: PHP
+  logo: "/images/sections/skills/php.svg"
+  summary: "I've been working with PHP full time for 3 year, in PHP vanilla and Laravel, Propel and Codeigniter."
+  url: "https://php.net/"
+
+- name: Javascript
+  logo: "/images/sections/skills/js.png"
+  summary: "The second language I work with the most, Capable of do frontend development in Vanilla Javascript, ExtJS and Angular."
+
+- name: Flutter
+  logo: "/images/sections/skills/flutter.png"
+  summary: "Used in a new production app and on side projects"
+  

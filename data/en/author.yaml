@@ -1,0 +1,15 @@
+# some information about you
+name: "Alejandro Brugarolas"
+nickname: "Brugui"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "/images/author/avatar.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "alejandro.brugarolas@gmail.com"
+
+# some summary about what you do
+summary:
+  - I am a Software Developer
+  - I am a Competitive Programmer
+  - I love Flutter

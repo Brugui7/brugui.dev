@@ -1,0 +1,58 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Scorpora Tecno App S.L
+    url: "https://www.linkedin.com/company/scorporatecno-app-sl"
+    location: Orihuela (Alicante)
+    # company overview
+    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+  positions:
+  - designation: Tech Lead
+    start: Jun 2020
+    responsibilities:
+    - Develop solutions for our clients, ensuring the use of the best practices by all my 6-people team.
+    - Provide an agile deployment of new features to production and a good management of technical risks.
+    - SQL Server, MariaDB
+    - Angular 9
+    - Laravel
+    - Flutter
+- company:
+    name: Scorpora Tecno App S.L
+    url: "https://www.linkedin.com/company/scorporatecno-app-sl"
+    location: Orihuela (Alicante)
+    # company overview
+    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+  positions:
+  - designation: Full Stack Developer
+    start: May 2018
+    end: Jun 2020
+    responsibilities:
+    - Create and maintain scalable, fast-deployment solutions to help our clients do their work faster and easier.
+    - Android (Java)
+    - SQL Server, MariaDB
+    - ExtJs
+    - Laravel
+
+- company:
+    name: Sauber Ofimática.
+    url: "https://sauberofimatica.com/"
+    location: Orihuela (Alicante)
+  positions:
+  - designation: Full Stack Developer
+    start: Apr 2017
+    end: May 2018
+    responsibilities:
+    - Full Stack development
+    - Android (Java)  Head Of Development
+    - Web (PHP, JS, AngularJS)
+    - MariaDB, MySQL, SQLite

@@ -1,0 +1,58 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Technical Lead
+# your company information
+company:
+  name: Scorpora Tecno App.
+  url: "https://www.linkedin.com/company/scorporatecno-app-sl/"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I am a software engineer with experience in web and mobile apps. I have a strong knowledge of version control with Git. I do (love) problem solving as a competitive programmer and I am also a drone pilot.'
+
+
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/Brugui7"
+
+- name: Instagram
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/imbrugui/"
+
+- name: StackOverFlow
+  icon: "fab fa-stack-overflow"
+  url: "https://stackoverflow.com/users/7491884/brugui"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/alejandro-brugarolas/"
+
+# percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Team Work
+  percentage: 90
+  color: pink
+- name: Leadership
+  percentage: 75
+  color: orange
+- name: Flexible
+  percentage: 80
+  color: green
+- name: Communication
+  percentage: 95
+  color: sky

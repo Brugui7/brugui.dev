@@ -1,0 +1,69 @@
+baseURL: https://brugui.dev/
+languageCode: en-us
+title: Alejandro Brugarolas · Brugui
+theme: "toha"
+
+# Manage languages
+# For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
+languages:
+  en:
+    languageName: English
+    weight: 1
+
+# Control TOC depth
+markup:
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
+
+# Enable global emoji support
+enableEmoji: true
+
+# Site parameters
+params:
+  # GitHub repo URL
+  gitRepo: https://github.com/Brugui7
+  gitBranch: master
+
+  background: /images/site/background.jpg
+
+  logo:
+    main: /images/author/avatar.jpg
+    inverted: /images/author/avatar.jpg
+    favicon: /images/site/favicon.jpg
+
+  # specify whether you want to write some blog posts or not
+  enableBlogPost: false
+
+  # specify whether you want to show Table of Contents in reading page
+  enableTOC: true
+
+  features:
+  # Enable and configure portfolio
+    portfolio:
+      enable: false
+  # Enable and configure blog posts
+    blog:
+      enable: false
+  # Enable & configure "Notes" features
+    notes:
+      enable: false
+
+       # Provide footer configuration.
+  footer:
+    enable: true
+    navigation:
+      enable: true
+    # Show/hide "Contact Me" section in the footer. Default is "true".
+    contactMe:
+      enable: true
+    # Show/hide credentials section in the footer. Default is "true".
+    credentials:
+      enable: false
+
+    # Show/hide newsletter section in the footer. Default is "true".
+    # This feature hasn't been implemented yet.
+    # Currently, you can just hide it from the footer.
+    newsletter:
+      enable: false
