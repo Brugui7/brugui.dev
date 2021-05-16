@@ -28,7 +28,7 @@ skills:
 
 - name: Javascript
   logo: "/images/sections/skills/js.png"
-  summary: "The second language I work with the most, Capable of do frontend development in Vanilla Javascript, ExtJS and Angular."
+  summary: "Capable of doing advanced frontend development in Vanilla Javascript, ExtJS and Angular."
 
 - name: Flutter
   logo: "/images/sections/skills/flutter.png"

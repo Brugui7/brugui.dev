@@ -18,13 +18,17 @@ company:
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a software engineer with experience in web and mobile apps. I have a strong knowledge of version control with Git. I do (love) problem solving as a competitive programmer and I am also a drone pilot.'
+summary: 'I am a software engineer with experience in web and mobile apps. I have a strong knowledge of version control with Git. I do problem solving as a competitive programmer and I am also a drone pilot.'
 
 
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
+- name: Email
+  icon: "fa fa-envelope"
+  url: "mailto:alejandro.brugarolas@gmail.com"
+
 - name: Github
   icon: "fab fa-github"
   url: "https://github.com/Brugui7"
