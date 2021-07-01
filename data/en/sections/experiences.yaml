@@ -11,6 +11,17 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Corunet
+    url: "https://coru.net"
+    location: A Coruña (Galicia)
+    # company overview
+  positions:
+  - designation: Angular Developer
+    start: Jul 2021
+    overview: Scorpora Tecno App is a company for IT solutions development on the ISP sector with presence in Spain and LATAM.
+    responsibilities:
+    - Develop web solutions that affect the day to day of clients, companies and hundreds of end users 
+- company:
     name: Scorpora Tecno App S.L
     url: "https://www.linkedin.com/company/scorporatecno-app-sl"
     location: Orihuela (Alicante)
@@ -19,6 +30,7 @@ experiences:
   positions:
   - designation: Tech Lead
     start: Jun 2020
+    end: Jun 2021
     responsibilities:
     - Develop solutions for our clients, ensuring the use of the best practices by all my 6-people team.
     - Provide an agile deployment of new features to production and a good management of technical risks.
