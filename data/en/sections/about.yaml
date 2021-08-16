@@ -8,11 +8,11 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Technical Lead
+designation: Angular developer
 # your company information
 company:
-  name: Scorpora Tecno App.
-  url: "https://www.linkedin.com/company/scorporatecno-app-sl/"
+  name: Corunet
+  url: "https://corunet.es"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
