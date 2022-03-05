@@ -7,14 +7,15 @@ section:
   showOnNavbar: true
   template: sections/about.html
 
-# your designation
-designation: Angular developer
-# your company information
+# designation
+designation: Senior Software Engineer
+
+# company information
 company:
   name: Corunet
   url: "https://coru.net"
 
-# your resume. this file path should be relative to you "static" directory
+# resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
 # a summary about you
@@ -22,7 +23,7 @@ summary: 'I am a software engineer with experience in web and mobile apps. I hav
 
 
 
-# your social links
+# social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
@@ -52,10 +53,10 @@ softSkills:
   percentage: 90
   color: pink
 - name: Leadership
-  percentage: 75
+  percentage: 70
   color: orange
 - name: Flexible
-  percentage: 80
+  percentage: 85
   color: green
 - name: Communication
   percentage: 95

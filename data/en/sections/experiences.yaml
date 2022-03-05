@@ -13,47 +13,52 @@ experiences:
 - company:
     name: Corunet
     url: "https://coru.net"
-    location: A Coruña (Galicia)
-    # company overview
+    location: A Coruña, Galicia (Spain)
+    overview: Corunet is a company established in Galicia (Spain) that develops software solution mostly for bank and retail clients.
   positions:
-  - designation: Angular Developer
-    start: Jul 2021
-    overview: Scorpora Tecno App is a company for IT solutions development on the ISP sector with presence in Spain and LATAM.
+  - designation: Senior Software Engineer (Angular)
+    start: Feb 2022
     responsibilities:
-    - Develop web solutions that affect the day to day of clients, companies and hundreds of end users 
+      - Develop web solutions that affect the day to day of clients, companies and hundreds of end users
+      - "**Stack:** Angular, Typescript, Redux, RxJS, TSlint, Jasmine, Karma"
+  - designation: Software Engineer (Angular)
+    start: Jul 2021
+    end: Feb 2022
+    responsibilities:
+      - "**Stack:** Angular, Typescript, Redux, RxJS, TSlint, Jasmine, Karma"
+
+- company:
+    name: ENEC Business School
+    url: "https://www.elcampico.org/"
+    location: Jacarilla, Alicante (Spain)
+  positions:
+  - designation: Associate Professor
+    start: Sept 2021
+    responsibilities:
+      - Associate professor in the Web Application Development Degree (EQF 5) of the IT Department
+      - "**Currently teaching:**\n\n
+      - **Client-side web development:** HTML, Javascript (ES6+), Jquery, Typescript, Angular\n\n
+      - **Server-Side web development:** PHP, PHP database connections (PDO), REST principles, Laravel"
+
 - company:
     name: Scorpora Tecno App S.L
     url: "https://www.linkedin.com/company/scorporatecno-app-sl"
     location: Orihuela (Alicante)
-    # company overview
     overview: Scorpora Tecno App is a company for IT solutions development on the ISP sector with presence in Spain and LATAM.
   positions:
   - designation: Tech Lead
     start: Jun 2020
     end: Jun 2021
     responsibilities:
-    - Develop solutions for our clients, ensuring the use of the best practices by all my 6-people team.
-    - Provide an agile deployment of new features to production and a good management of technical risks.
-    - SQL Server, MariaDB
-    - Angular 9
-    - Laravel
-    - Flutter
-- company:
-    name: Scorpora Tecno App S.L
-    url: "https://www.linkedin.com/company/scorporatecno-app-sl"
-    location: Orihuela (Alicante)
-    # company overview
-    overview: Scorpora Tecno App is a company for IT solutions development on the ISP sector with presence in Spain and LATAM.
-  positions:
+      - Develop solutions for our clients, ensuring the use of the best practices by all my 6-people team.
+      - Provide an agile deployment of new features to production and a good management of technical risks.
+      - "**Stack:** SQL Server, MariaDB, Angular 9, Typescript, Laravel, PHP, Flutter"
   - designation: Full Stack Developer
     start: May 2018
     end: Jun 2020
     responsibilities:
     - Create and maintain scalable, fast-deployment solutions to help our clients do their work faster and easier.
-    - Android (Java)
-    - SQL Server, MariaDB
-    - ExtJs
-    - Laravel
+    - "**Stack:**  Android (Java), ExtJs, Laravel, SQL Server, MariaDB, PHP, Javascript"
 
 - company:
     name: Sauber Ofimática.
@@ -65,6 +70,4 @@ experiences:
     end: May 2018
     responsibilities:
     - Full Stack development
-    - Android (Java)  Head Of Development
-    - Web (PHP, JS, AngularJS)
-    - MariaDB, MySQL, SQLite
+    - "**Stack:**  Android (Java), Javascript, AngularJS, MariaDB, MySQL, SQLite, PHP"

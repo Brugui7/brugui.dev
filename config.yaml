@@ -50,7 +50,7 @@ params:
     notes:
       enable: false
 
-       # Provide footer configuration.
+  # Provide footer configuration.
   footer:
     enable: true
     navigation:

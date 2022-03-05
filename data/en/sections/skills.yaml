@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Skills
+  name: Main Skills
   id: skills
   enable: true
   weight: 2
@@ -13,24 +13,28 @@ section:
 skills:
 - name: Git
   logo: "/images/sections/skills/git.png"
-  summary: "Strong knowledge of git and git-flow. Experience in working with GitHub and BitBucket."
+  summary: "Strong knowledge of git and git-flow. Experience in working with BitBucket, GitHub and GitLab."
   url: "https://git-scm.com/"
+
+- name: Typescript
+  logo: "/images/sections/skills/ts.png"
+  summary: "Capable of doing advanced frontend development in Vanilla Typescript and Angular"
+
+- name: PHP
+  logo: "/images/sections/skills/php.svg"
+  summary: "I've been working with PHP full time for 3 years including API REST development, in PHP vanilla and Laravel, Propel and Codeigniter."
+  url: "https://php.net/"
 
 - name: Android
   logo: "/images/sections/skills/android.png"
   summary: "I've developed multiple applications in Java (and some components in Kotlin) for various sectors as a freelance, having hundred of daily users."
   url: "https://developer.android.com/"
 
-- name: PHP
-  logo: "/images/sections/skills/php.svg"
-  summary: "I've been working with PHP full time for 3 year, in PHP vanilla and Laravel, Propel and Codeigniter."
-  url: "https://php.net/"
-
 - name: Javascript
   logo: "/images/sections/skills/js.png"
-  summary: "Capable of doing advanced frontend development in Vanilla Javascript, ExtJS and Angular."
+  summary: "Capable of doing advanced frontend development in Vanilla Javascript, ExtJS and AngularJs."
 
 - name: Flutter
   logo: "/images/sections/skills/flutter.png"
-  summary: "Used in a new production app and on side projects"
+  summary: "Used in a new production app and on side projects."
   
