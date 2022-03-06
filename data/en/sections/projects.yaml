@@ -1,0 +1,49 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+#- name: All
+#  filter: "all"
+#- name: Professional
+#  filter: "professional"
+#- name: Academic
+#  filter: "academic"
+#- name: Hobby
+#  filter: "hobby"
+
+# your projects
+projects:
+- name: DermalCheck Android App
+  logo: /images/sections/projects/dermalcheck-logo.png
+  role: Author
+
+  repo: https://github.com/Brugui7/DermalCheck
+  #url: ""  # If the project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: An Android (Java) app part of my final degree project on early skin lesions detection. Uses TFLite and it's integrated with Firebase.
+  tags: []
+
+- name: DermalCheck Backoffice
+  logo: /images/sections/projects/dermalcheck-logo.png
+  role: Author
+
+  repo: https://github.com/Brugui7/DermalCheckBack
+  #url: ""  # If the project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Backoffice part of my final degree project on early skin lesions detection. It's done with ExtJS.
+  tags: []
+
+- name: brugui.dev
+  logo: /images/site/favicon.jpg
+  role: Author
+
+  repo: https://github.com/Brugui7/brugui.dev
+  #url: ""  # If the project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: The code of this site built using Hugo Framework with Toha Theme and deployed on Netlify
+  tags: []
