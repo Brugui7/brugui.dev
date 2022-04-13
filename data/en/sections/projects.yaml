@@ -49,7 +49,7 @@ projects:
   tags: []
 
 - name: oidle.app
-  logo: /images/sections/projects/oidle-logo.svg
+  logo: /images/sections/projects/oidle-logo.png
   role: Author
 
   url: https://oidle.app
