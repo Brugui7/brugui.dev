@@ -47,3 +47,11 @@ projects:
   #url: ""  # If the project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: The code of this site built using Hugo Framework with Toha Theme and deployed on Netlify
   tags: []
+
+- name: oidle.app
+  logo: /images/sections/projects/oidle-logo.svg
+  role: Author
+
+  url: https://oidle.app
+  summary: A wordle-like game where you'll have to guess a spanish song from listening to just a few seconds. Developed with Angular and deployed on Netlify
+  tags: []
