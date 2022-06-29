@@ -50,6 +50,11 @@ params:
     notes:
       enable: false
 
+    analytics:
+      enabled: true
+      google:
+        id: G-Y7N2M6EWJV
+
   # Provide footer configuration.
   footer:
     enable: true
