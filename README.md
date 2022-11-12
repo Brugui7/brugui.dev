@@ -8,3 +8,7 @@ Static page made with [Hugo](http://gohugo.io/) and [Toha theme](https://github.
 
 ## Requirements
 * Hugo 0.68.0 or higher
+
+## Local development
+
+Start local server with `hugo server -w`

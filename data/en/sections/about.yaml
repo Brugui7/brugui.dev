@@ -8,12 +8,12 @@ section:
   template: sections/about.html
 
 # designation
-designation: Senior Software Engineer
+designation: Software Engineer
 
 # company information
 company:
-  name: Corunet
-  url: "https://coru.net"
+  name: Red Hat
+  url: "https://redhat.com/"
 
 # resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"

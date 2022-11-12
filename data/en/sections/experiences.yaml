@@ -11,6 +11,16 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Red Hat
+    url: "https://redhat.com/"
+    location: Orihuela, Alicante (Spain)
+  positions:
+    - designation: Software Engineer
+      start: Nov 2022
+      responsibilities: 
+        - Automations for the Kubernetes Migration Team
+
+- company:
     name: Corunet
     url: "https://coru.net"
     location: A Coruña, Galicia (Spain)
@@ -18,6 +28,7 @@ experiences:
   positions:
   - designation: Senior Software Engineer (Angular)
     start: Feb 2022
+    end: Nov 2022
     responsibilities:
       - Develop web solutions that affect the day to day of clients, companies and hundreds of end users
       - "**Stack:** Angular, Typescript, Redux, RxJS, TSlint, Jasmine, Karma"
