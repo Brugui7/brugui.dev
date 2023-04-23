@@ -10,55 +10,48 @@ section:
 
 # filter buttons
 buttons:
-- name: All
-  filter: "all"
-- name: Professional
-  filter: "professional"
-- name: Academic
-  filter: "academic"
-- name: Hobby
-  filter: "hobby"
+#- name: All
+#  filter: "all"
+#- name: Professional
+#  filter: "professional"
+#- name: Academic
+#  filter: "academic"
+#- name: Hobby
+#  filter: "hobby"
 
 # your projects
 projects:
-- name: Kubernetes
-  logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
+- name: DermalCheck Android App
+  logo: /images/sections/projects/dermalcheck-logo.png
+  role: Author
 
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
-  #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning"]
+  repo: https://github.com/Brugui7/DermalCheck
+  #url: ""  # If the project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: An Android (Java) app part of my final degree project on early skin lesions detection. Uses TFLite and it's integrated with Firebase.
+  tags: []
 
-- name: A sample academic paper
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
+- name: DermalCheck Backoffice
+  logo: /images/sections/projects/dermalcheck-logo.png
+  role: Author
 
-- name: Nocode
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
-  #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
+  repo: https://github.com/Brugui7/DermalCheckBack
+  #url: ""  # If the project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Backoffice part of my final degree project on early skin lesions detection. It's done with ExtJS.
+  tags: []
 
-- name: Toha
-  logo: /images/sections/projects/toha.png
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+- name: brugui.dev
+  logo: /images/site/favicon.jpg
+  role: Author
+
+  repo: https://github.com/Brugui7/brugui.dev
+  #url: ""  # If the project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: The code of this site built using Hugo Framework with Toha Theme and deployed on Netlify
+  tags: []
+
+- name: oidle.app
+  logo: /images/sections/projects/oidle-logo.png
+  role: Author
+
+  url: https://oidle.app
+  summary: A wordle-like game where you'll have to guess a spanish song from listening to just a few seconds. Developed with Angular and deployed on Netlify
+  tags: []

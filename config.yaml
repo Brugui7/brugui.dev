@@ -1,7 +1,6 @@
-baseURL: https://hugo-toha.github.io
-
+baseURL: https://brugui.dev/
 languageCode: en-us
-title: "John's Blog"
+title: Alejandro Brugarolas · Brugui
 
 # Use Hugo modules to add theme
 module:
@@ -23,12 +22,6 @@ languages:
   en:
     languageName: English
     weight: 1
-  bn:
-    languageName: বাংলা
-    weight: 3
-
-# Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
-# DefaultContentLanguage: bn
 
 # Allow raw html in markdown file
 markup:
@@ -59,14 +52,13 @@ params:
   # Provide logos for your site. The inverted logo will be used in the initial
   # transparent navbar and the main logo will be used in the non-transparent navbar.
   logo:
-    main: /images/site/main-logo.png
-    inverted: /images/site/inverted-logo.png
-    favicon: /images/site/favicon.png
+    main: /images/author/avatar.jpg
+    inverted: /images/author/avatar.jpg
+    favicon: /images/site/favicon.jpg
 
-  # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
-  # Default branch of your Git repo
-  gitBranch: main
+  # GitHub repo URL
+  gitRepo: https://github.com/Brugui7
+  gitBranch: master
 
   # Configure the number of section title visible in the top navbar
   topNavbar:
@@ -94,7 +86,7 @@ params:
 
     # Enable and configure blog posts
     blog:
-      enable: true
+      enable: false
       # Share post on different social media
       shareButtons:
         facebook: true
@@ -110,7 +102,7 @@ params:
 
     # Enable & configure "Notes" features
     notes:
-      enable: true
+      enable: false
 
     # Enable comment feature. There, should be only one of them.
     comment:
@@ -152,7 +144,7 @@ params:
       services:
         # Google Analytics
         google:
-          id: G-H4LBG7NDFZ
+          id: G-Y7N2M6EWJV
         # # CounterDev
         # counterDev:
         #   id: <your counterdev id>
@@ -181,15 +173,15 @@ params:
 
     # specify whether you want to show Table of Contents in reading page
     toc:
-      enable: true
+      enable: false
 
     # Show tags under the post title
     tags:
-      enable: true
+      enable: false
 
     # Specify whether to show flag in the language selector. Default is true.
     flags:
-      enable: true
+      enable: false
       # # If you want to use different country flag for a language, specify them here.
       # flagOverwrites:
       #   - languageCode: en
@@ -241,7 +233,7 @@ params:
     #   codeFences: false
     # ```
     syntaxHighlight:
-      enable: true
+      enable: false
       services:
         hljs:
           # see: https://highlightjs.readthedocs.io/en/latest/api.html#configure
@@ -249,7 +241,7 @@ params:
 
     # Enable to use `video-player` shortcode
     videoPlayer:
-      enable: true
+      enable: false
       services:
         # convert .js-player class into video player via https://plyr.io/
         # Can play HTML5 Video, Audio, Youtube, Vimeo.
@@ -275,15 +267,15 @@ params:
       enable: true
     # Show/hide credentials section in the footer. Default is "true".
     credentials:
-      enable: true
+      enable: false
 
     # Show/hide newsletter section in the footer. Default is "true".
     # Currently, it supports "mailchimp".
     newsletter:
-      enable: true
+      enable: false
       provider: mailchimp
       mailchimpURL: https://github.us1.list-manage.com/subscribe/post?u=19de52a4603135aae97163fd8&amp;id=094a24c76e
 
     # Show/hide disclaimer notice in the footer. Default is "false".
     disclaimer:
-      enable: true
+      enable: false

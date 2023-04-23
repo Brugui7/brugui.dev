@@ -11,54 +11,74 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    name: Red Hat
+    url: "https://redhat.com/"
+    location: Orihuela, Alicante (Spain)
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - designation: Software Engineer
+      start: Nov 2022
+      responsibilities: 
+        - Automations for the Kubernetes Migration Team
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Corunet
+    url: "https://coru.net"
+    location: A Coruña, Galicia (Spain)
+    overview: Corunet is a company established in Galicia (Spain) that develops software solution mostly for bank and retail clients.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Senior Software Engineer (Angular)
+    start: Feb 2022
+    end: Nov 2022
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+      - Develop web solutions that affect the day to day of clients, companies and hundreds of end users
+      - "**Stack:** Angular, Typescript, Redux, RxJS, TSlint, Jasmine, Karma"
+  - designation: Software Engineer (Angular)
+    start: Jul 2021
+    end: Feb 2022
+    responsibilities:
+      - "**Stack:** Angular, Typescript, Redux, RxJS, TSlint, Jasmine, Karma"
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: ENEC Business School
+    url: "https://www.elcampico.org/"
+    location: Jacarilla, Alicante (Spain)
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Associate Professor
+    start: Sept 2021
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+      - Associate professor in the Web Application Development Degree (EQF 5) of the IT Department
+      - "**Currently teaching:**\n\n
+      - **Client-side web development:** HTML, Javascript (ES6+), Jquery, Typescript, Angular\n\n
+      - **Server-Side web development:** PHP, PHP database connections (PDO), REST principles, Laravel"
+
+- company:
+    name: Scorpora Tecno App S.L
+    url: "https://www.linkedin.com/company/scorporatecno-app-sl"
+    location: Orihuela (Alicante)
+    overview: Scorpora Tecno App is a company for IT solutions development on the ISP sector with presence in Spain and LATAM.
+  positions:
+  - designation: Tech Lead
+    start: Jun 2020
+    end: Jun 2021
+    responsibilities:
+      - Develop solutions for our clients, ensuring the use of the best practices by all my 6-people team.
+      - Provide an agile deployment of new features to production and a good management of technical risks.
+      - "**Stack:** SQL Server, MariaDB, Angular 9, Typescript, Laravel, PHP, Flutter"
+  - designation: Full Stack Developer
+    start: May 2018
+    end: Jun 2020
+    responsibilities:
+    - Create and maintain scalable, fast-deployment solutions to help our clients do their work faster and easier.
+    - "**Stack:**  Android (Java), ExtJs, Laravel, SQL Server, MariaDB, PHP, Javascript"
+
+- company:
+    name: Sauber Ofimática.
+    url: "https://sauberofimatica.com/"
+    location: Orihuela (Alicante)
+  positions:
+  - designation: Full Stack Developer
+    start: Apr 2017
+    end: May 2018
+    responsibilities:
+    - Full Stack development
+    - "**Stack:**  Android (Java), Javascript, AngularJS, MariaDB, MySQL, SQLite, PHP"

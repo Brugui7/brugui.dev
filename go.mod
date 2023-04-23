@@ -1,4 +1,4 @@
-module github.com/hugo-toha/hugo-toha.github.io
+module github.com/Brugui7/bruguidev2
 
 go 1.19
 
