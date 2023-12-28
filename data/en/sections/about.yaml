@@ -24,10 +24,6 @@ summary: 'I am a software engineer with experience in web and mobile apps. I hav
 # social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
-- name: Email
-  icon: "fa fa-envelope"
-  url: "mailto:alejandro.brugarolas@gmail.com"
-
 - name: Github
   icon: "fab fa-github"
   url: "https://github.com/Brugui7"
