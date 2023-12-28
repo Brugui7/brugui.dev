@@ -16,7 +16,7 @@ company:
   url: "https://redhat.com/"
 
 # resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
+# resume: "files/resume.pdf"
 
 # a summary about you
 summary: 'I am a software engineer with experience in web and mobile apps. I have a strong knowledge of version control with Git. I do problem solving as a competitive programmer and I am also a drone pilot.'
