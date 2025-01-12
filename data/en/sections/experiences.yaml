@@ -15,16 +15,23 @@ experiences:
     url: "https://redhat.com/"
     location: Orihuela, Alicante (Spain)
   positions:
-    - designation: Software Engineer
-      start: Nov 2022
-      responsibilities: 
-        - Automations for the Kubernetes Migration Team
+  - designation: Senior Software Engineer
+    start: Apr 2024
+    responsibilities: 
+      - Automations for the Migration and Modernization organization
+      - Working on [Konveyor](https://konveyor.io/) and KAI
+      - "**Stack:** Typescript, Python, Go, Docker/Podman, Kubernetes/Openshift"
+  - designation: Software Engineer
+    start: Nov 2022
+    end: Apr 2024
+    responsibilities: 
+      - Automations for the Kubernetes Migration Team
 
 - company:
-    name: Corunet
-    url: "https://coru.net"
+    name: Corunet By Sngular
+    url: "https://www.sngular.com/"
     location: A Coruña, Galicia (Spain)
-    overview: Corunet is a company established in Galicia (Spain) that develops software solution mostly for bank and retail clients.
+    overview: Corunet is a company established in Galicia (Spain) that develops software solution mostly for bank and retail clients. The comapny was later adquired by Sngular.
   positions:
   - designation: Senior Software Engineer (Angular)
     start: Feb 2022

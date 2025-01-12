@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # designation
-designation: Software Engineer
+designation: Senior Software Engineer
 
 # company information
 company:
@@ -41,10 +41,17 @@ socialLinks:
   url: "https://www.linkedin.com/in/alejandro-brugarolas/"
 
 badges:
+
+- type: certification
+  name: Red Hat Certified Openshift Administrator
+  url: "https://www.credly.com/badges/85b0dd36-cefa-4e64-bf84-54752c3da6bc"
+  badge: "https://images.credly.com/size/340x340/images/b6cf67d4-0533-495b-acfe-9d08bb50bef1/image.png"
+
 - type: certification
   name: Red Hat Certified Specialist in Containers and Kubernetes
   url: "https://www.credly.com/badges/9ba29661-5c54-4038-a08b-501f1495e001/public_url"
   badge: "https://images.credly.com/size/340x340/images/1dd8824f-d6b6-4967-906a-7bd3c0063fae/image.png"
+
 
 # percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
