@@ -36,7 +36,7 @@ jobs:
       run: hugo --minify
 
     # Run HTML Proofer
-    - uses: anishathalye/proof-html@v2.2.0
+    - uses: anishathalye/proof-html@v2.2.1
       with:
         directory: ./public
         enforce_https: false
